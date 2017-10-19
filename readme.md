@@ -2,6 +2,6 @@
 
 + its cool cus like stuff!
 + and THINGS!
-+ some of which are **bold**
++ some of wh
 
 ## This is a sub heading!
